@@ -1,1 +1,3 @@
-# pandas-homeword
+# pandas-homework
+
+This code tackles the pandas homework by analyzing mutiple portfolios. The initial 3 datasets were provided by the instructors and the second set of 3 stocks were created by me by pulling stock closing prices from Google Sheets using the Google Finance function. All of the files are in CSV format. The first section deals with creating dataframes. The second deals with analyzing the original datasets provided. The third section deals with the data pulled from Google Finance that is then blended with the original dataset and analyzed using the same methods in the section above. Those analyses include, but are not limited to: cumulative returns, rolling averages, betas and sharpe ratios.
